@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://user-images.githubusercontent.com/39556019/118778853-17a5be80-b8bd-11eb-9a46-c4b29a1fe84d.jpeg" 
-     width = "300" height = "200" 
+     width = "200" height = "200" 
      alt="dog" align=center />
 <!--
 **h-peng17/h-peng17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
